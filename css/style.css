@@ -76,9 +76,9 @@ h2 {
 
 /* Start of Portfolio Section */
 #portfolio {
-  background: #ebebeb;
-  padding-top: 90px !important;
-  padding-bottom: 90px !important;
+  background: #f0f0f0;
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
 }
 
 .itemPortfolio img,
